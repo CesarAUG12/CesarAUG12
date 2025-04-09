@@ -22,8 +22,6 @@ Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experi�
 
 ## 🚀 Tecnologias que uso  
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAUG12&layout=compact&theme=dark)
-
 ### **Linguagens**  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -53,4 +51,5 @@ Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experi�
 ---
 
 📊 **GitHub Stats:**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarAUG12&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarAUG12&show_icons=true&theme=dark)  ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAUG12&layout=compact&theme=dark)
+
