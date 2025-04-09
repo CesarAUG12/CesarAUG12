@@ -18,8 +18,7 @@ Meu objetivo é contribuir para projetos desafiadores, colaborar com equipes tal
 # Currículo 📋
 Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experiências.
 
-📎 Veja meu currículo aqui [Cesar Augusto Cv.pdf][Cesar_CV.pdf](https://github.com/user-attachments/files/19673501/Cesar_CV.pdf)
-
+📎 Veja meu currículo aqui [Cesar_CV.pdf](https://github.com/user-attachments/files/19673515/Cesar_CV.pdf)
 
 ## 🚀 Tecnologias que uso  
 
