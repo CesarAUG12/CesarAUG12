@@ -12,8 +12,8 @@ Meu objetivo é fazer parte de projetos desafiadores, colaborar com pessoas tale
 
 🔗 **Meus Contatos:**  
 - 📧 Email: [cansouza1208@gmail.com](mailto:cansouza1208@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/cesar-augusto-a56093233/)  
-- 💻 [GitHub](https://github.com/CesarAUG12)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-a56093233/)
+- [![WhatsApp](https://img.shields.io/badge/Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511959227297)
 
 # Currículo 📋
 Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experiências.
@@ -21,6 +21,7 @@ Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experi�
 📎 Veja meu currículo aqui [Cesar_CV.pdf](https://github.com/user-attachments/files/19673515/Cesar_CV.pdf)
 
 ## 🚀 Tecnologias que uso  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### **Linguagens**  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
@@ -51,6 +52,16 @@ Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experi�
 ---
 
 📊 **GitHub Stats:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAUG12&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarAUG12&show_icons=true&theme=dark)   
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=CesarAUG12&show_icons=true&theme=dark" 
+  />
+  <img 
+    alt="Top Langs"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAUG12&layout=compact&theme=dark" 
+  />
+</div>
 
