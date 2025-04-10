@@ -1,4 +1,7 @@
-# Olá, eu sou Cesar Augusto 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=green&width=435&lines=Olá%2C+eu+sou+o+Cesar+Augusto+👋" alt="Typing SVG" />
+</p>
+
 Desenvolvedor Front-End | Estudante de Análise e Desenvolvimento de Sistemas
 -
 📍 São Paulo, SP 
