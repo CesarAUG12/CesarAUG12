@@ -4,11 +4,11 @@ Desenvolvedor Front-End | Estudante de Análise e Desenvolvimento de Sistemas
 📍 São Paulo, SP 
 
 ## Sobre Mim 🧑‍💻
-Sou um jovem entusiasta da tecnologia e do desenvolvimento de software, apaixonado por criar soluções que melhoram a experiência do usuário. Tenho experiência no desenvolvimento de interfaces dinâmicas e interativas com React, além de conhecimento em Node.js e Express, onde já desenvolvi APIs eficientes e escaláveis.
+Tenho 20 anos, sou um entusiasta da tecnologia e apaixonado por desenvolvimento de software, sempre buscando criar soluções que proporcionem uma excelente experiência ao usuário. Tenho experiência na criação de interfaces dinâmicas e interativas utilizando React, além de já ter desenvolvido APIs escaláveis e eficientes com Node.js e Express.
 
-Também possuo experiência com C# .NET e Java, o que me permite abordar desafios de forma estruturada e eficiente. Estou sempre em busca de novas tecnologias, aprimorando minhas habilidades e expandindo meu conhecimento para entregar soluções inovadoras e impactantes.
+Também conto com experiência em C# .NET e Java, o que me permite encarar desafios com uma abordagem estruturada e eficaz. Estou em constante evolução, explorando novas tecnologias e aprimorando minhas habilidades para entregar soluções cada vez mais inovadoras e impactantes.
 
-Meu objetivo é contribuir para projetos desafiadores, colaborar com equipes talentosas e ajudar a construir um mundo mais conectado por meio da tecnologia. 🚀
+Meu objetivo é fazer parte de projetos desafiadores, colaborar com pessoas talentosas e contribuir para um mundo mais conectado por meio da tecnologia. 🚀
 
 🔗 **Meus Contatos:**  
 - 📧 Email: [cansouza1208@gmail.com](mailto:cansouza1208@gmail.com)  
