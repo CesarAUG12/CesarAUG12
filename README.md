@@ -21,7 +21,8 @@ Meu objetivo é fazer parte de projetos desafiadores, colaborar com pessoas tale
 # Currículo 📋
 Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experiências.
 
-📎 Veja meu currículo aqui [Cesar_CV.pdf](https://github.com/user-attachments/files/19673515/Cesar_CV.pdf)
+📎 Veja meu currículo aqui [Cesar_Aug_souza_CV.pdf](https://github.com/user-attachments/files/20259338/Cesar_Aug_souza_CV.pdf)
+.pdf]()
 
 ## 🚀 Tecnologias que uso
 
