@@ -15,13 +15,14 @@ Meu objetivo é fazer parte de projetos desafiadores, colaborar com pessoas tale
 
 🔗 **Meus Contatos:**  
 - 📧 Email: [cansouza1208@gmail.com](mailto:cansouza1208@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-a56093233/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-do-nascimento-souza/)
 - [![WhatsApp](https://img.shields.io/badge/Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511959227297)
 
 # Currículo 📋
 Aqui você encontra mais detalhes sobre minha trajetória, habilidades e experiências.
 
-📎 Veja meu currículo aqui [Cesar_Aug_souza_CV.pdf](https://github.com/user-attachments/files/20259338/Cesar_Aug_souza_CV.pdf)
+📎 Veja meu currículo aqui ([Currículo - Cesar Augusto.pdf](https://github.com/user-attachments/files/22069574/Curriculo.-.Cesar.Augusto.pdf)
+)
 
 
 ## 🚀 Tecnologias que uso
