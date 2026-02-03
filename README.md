@@ -7,11 +7,13 @@ Desenvolvedor Full-Stack| Estudante de Análise e Desenvolvimento de Sistemas
 📍 São Paulo, SP 
 
 ## Sobre Mim 🧑‍💻
-Tenho 20 anos, sou um entusiasta da tecnologia e apaixonado por desenvolvimento de software, sempre buscando criar soluções que proporcionem uma excelente experiência ao usuário. Tenho experiência na criação de interfaces dinâmicas e interativas utilizando React, além de já ter desenvolvido APIs escaláveis e eficientes com Node.js e Express.
+Tenho 21 anos e atuo na área de Tecnologia da Informação desde 2023, com foco em desenvolvimento de software e aprendizado contínuo. Atualmente, curso Análise e Desenvolvimento de Sistemas e sou estagiário de TI no setor de Riscos e Compliance do São Paulo Futebol Clube.
 
-Também conto com experiência em C# .NET e Java, o que me permite encarar desafios com uma abordagem estruturada e eficaz. Estou em constante evolução, explorando novas tecnologias e aprimorando minhas habilidades para entregar soluções cada vez mais inovadoras e impactantes.
+No SPFC, contribuo para a evolução do Portal Interno (PIT), propondo melhorias em UI/UX e soluções técnicas, analisando código, identificando falhas e sugerindo ajustes para a equipe de desenvolvimento, sempre com foco na experiência do usuário e na eficiência dos processos internos.
 
-Meu objetivo é fazer parte de projetos desafiadores, colaborar com pessoas talentosas e contribuir para um mundo mais conectado por meio da tecnologia. 🚀
+Anteriormente, atuei como aprendiz de TI, onde tive contato prático com C# .NET e React.js, participando de projetos internos e desenvolvendo uma base sólida em rotinas de desenvolvimento e trabalho em equipe.
+
+Sou proativo, comunicativo e tenho facilidade em aprender na prática. Valorizo o trabalho em equipe, a troca de conhecimento e a construção de soluções que gerem impacto real.
 
 🔗 **Meus Contatos:**  
 - 📧 Email: [cansouza1208@gmail.com](mailto:cansouza1208@gmail.com)  
